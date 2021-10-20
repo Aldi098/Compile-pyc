@@ -1,7 +1,7 @@
 # Compile-pyc
 
 ## install
-```python
+```python3
 $ pkg install python
 $ pkg install python2
 $ pkg install nano
