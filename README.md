@@ -15,7 +15,7 @@ $ python2 compile-v7.py
 ## fungsi
 - [x] Compile python1
 - [x] Compile python3
-- [+] Menjadi pyc 
+- [x] Menjadi pyc 
 
 > jika script nya eror jangan salah kan Miminnya aga lol 😂😂😂
 
